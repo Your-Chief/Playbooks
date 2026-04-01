@@ -1,4 +1,4 @@
-![Your chief]([image_url](https://p144.p3.n0.cdn.zight.com/items/o0ud6Yy1/f0995f46-45cf-446c-a634-8f1c6e9bfabf.png?v=a2d07f9401c58a8d118ceb00fa277fe3)
+![Your chief](https://p144.p3.n0.cdn.zight.com/items/o0ud6Yy1/f0995f46-45cf-446c-a634-8f1c6e9bfabf.png?v=a2d07f9401c58a8d118ceb00fa277fe3)
 
 # Playbooks & Chief: README Summary
 
