@@ -32,7 +32,7 @@ As your company grows, the bottleneck isn't information — it's coordination. C
 
 ### How Chief Works
 
-You set a declarative objective — ideally by speaking Chief, not typing, but you can do both. Chief consults the Playbooks from this repository that you have loaded into your Chief project, spins up a fleet of agents to determine the plan, coordinate the work, and track progress. It maintains clear ownership, status, and dependencies across every project and workstream, and surfaces what needs your attention before you have to notice it yourself.
+You set a declarative objective (we've optimized Chief for you to be able to talk to it, not just type, but you can do both). Chief consults the Playbooks from this repository that you have loaded into your Chief project, spins up a fleet of agents to determine the plan, coordinate the work, and track progress. It maintains clear ownership, status, and dependencies across every project and workstream, and surfaces what needs your attention before you have to notice it yourself.
 
 Chief is:
 - **An execution coordination layer** — it absorbs tracking, follow-ups, and state management so you stay focused on leadership and decisions
